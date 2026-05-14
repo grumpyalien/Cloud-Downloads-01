@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7575",
+  "folder": "YouTube__watch_20260514065708_210e4b",
+  "base_name": "Stellar_Blade_Is_Shallow_And_Deceptive_Review_4NgX_eN3gj8_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/grumpyalien/Cloud-Downloads-01/releases/tag/co-releases-v1-7575",
+  "files": [
+    {
+      "name": "Stellar_Blade_Is_Shallow_And_Deceptive_Review_4NgX_eN3gj8_480p.mp4",
+      "url": "https://github.com/grumpyalien/Cloud-Downloads-01/releases/download/co-releases-v1-7575/Stellar_Blade_Is_Shallow_And_Deceptive_Review_4NgX_eN3gj8_480p.mp4",
+      "api_url": "https://api.github.com/repos/grumpyalien/Cloud-Downloads-01/releases/assets/419958181",
+      "id": 419958181,
+      "size": 238075995,
+      "download_count": 0
+    }
+  ]
+}
