@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1122",
+  "folder": "YouTube__watch_20260514184030_07d059",
+  "base_name": "Two_Demos_Glued_Together_Resident_Evil_Requiem_Review_YDzM-EO4j4A_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/grumpyalien/Cloud-Downloads-01/releases/tag/co-releases-v1-1122",
+  "files": [
+    {
+      "name": "Two_Demos_Glued_Together_Resident_Evil_Requiem_Review_YDzM-EO4j4A_480p.mp4",
+      "url": "https://github.com/grumpyalien/Cloud-Downloads-01/releases/download/co-releases-v1-1122/Two_Demos_Glued_Together_Resident_Evil_Requiem_Review_YDzM-EO4j4A_480p.mp4",
+      "api_url": "https://api.github.com/repos/grumpyalien/Cloud-Downloads-01/releases/assets/420415619",
+      "id": 420415619,
+      "size": 647716285,
+      "download_count": 0
+    }
+  ]
+}
