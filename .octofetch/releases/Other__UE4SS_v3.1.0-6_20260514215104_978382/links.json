@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9939",
+  "folder": "Other__UE4SS_v3.1.0-6_20260514215104_978382",
+  "base_name": "Other__UE4SS_v3.1.0-6_20260514215104_978382.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/grumpyalien/Cloud-Downloads-01/releases/tag/co-releases-v1-9939",
+  "files": [
+    {
+      "name": "Other__UE4SS_v3.1.0-6_20260514215104_978382.zip",
+      "url": "https://github.com/grumpyalien/Cloud-Downloads-01/releases/download/co-releases-v1-9939/Other__UE4SS_v3.1.0-6_20260514215104_978382.zip",
+      "api_url": "https://api.github.com/repos/grumpyalien/Cloud-Downloads-01/releases/assets/420519011",
+      "id": 420519011,
+      "size": 8029443,
+      "download_count": 0
+    }
+  ]
+}
